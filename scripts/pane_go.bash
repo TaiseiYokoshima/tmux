@@ -18,5 +18,4 @@ elif [[ $1 == "left" ]]; then
 
 elif [[ $1 == "right" ]]; then
   tmux select-pane -R
-
 fi
